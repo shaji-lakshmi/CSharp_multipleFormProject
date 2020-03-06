@@ -1,0 +1,14 @@
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\bin\Debug\Shaji_section2Project.exe.config
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\bin\Debug\Shaji_section2Project.exe
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\bin\Debug\Shaji_section2Project.pdb
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\obj\Debug\Shaji_section2Project.csprojAssemblyReference.cache
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\obj\Debug\Shaji_section2Project.frmaddStudent.resources
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\obj\Debug\Shaji_section2Project.frmstudentScoreCalc.resources
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\obj\Debug\Shaji_section2Project.Properties.Resources.resources
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\obj\Debug\Shaji_section2Project.csproj.GenerateResource.cache
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\obj\Debug\Shaji_section2Project.csproj.CoreCompileInputs.cache
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\obj\Debug\Shaji_section2Project.exe
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\obj\Debug\Shaji_section2Project.pdb
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\obj\Debug\Shaji_section2Project.frmUpdate.resources
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\obj\Debug\Shaji_section2Project.frmaddScore.resources
+E:\3309\vs_projects_labs\Shaji_section2Project\Shaji_section2Project\obj\Debug\Shaji_section2Project.frmUpdateScore.resources
